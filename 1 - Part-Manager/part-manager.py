@@ -53,7 +53,7 @@ def remove_item():
 app = Tk()
 app.title("Part Manager")
 app.geometry("890x600")
-app.iconbitmap("projects\inventory.ico")
+app.iconbitmap("inventory.ico")
 app.resizable(0,0)
 
 partNumber = StringVar()
